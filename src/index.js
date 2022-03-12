@@ -12,7 +12,7 @@ const formatPrice = price => {
   const newPrice = new window.Intl.NumberFormat("es-MX", {
       style: "currency",
       currency: "MXN"
-  }).format(price)
+  }).format(price);
 
   return newPrice;
 }
