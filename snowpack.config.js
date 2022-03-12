@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://github.com/tpenaloza/manipulacionDOM-FETCH',
+    baseUrl: 'https://tpenaloza.github.io/manipulacionDOM-FETCH',
   },
 }
