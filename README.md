@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Snowpack Tailwind
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
@@ -80,3 +81,7 @@ Your app is ready to be deployed!
 ### Q: What about Eject?
 
 No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+=======
+# manipulacionDOM-FETCH
+This is the first workshop to learn DOM manipulation as part of a Platzi course.
+>>>>>>> c65680ba21c923d9beebbe2c576d1f8e3f434aad
