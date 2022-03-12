@@ -1,5 +1,5 @@
 {
-  "homepage":"https://github.com/tpenaloza/manipulacionDOM-FETCH",
+  "homepage":"https://tpenaloza.github.io/manipulacionDOM-FETCH",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
