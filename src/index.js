@@ -65,4 +65,5 @@ window.fetch(baseURL + '/api/avo')
   appNode.append(...allItems);
   appNode.className= 'mt-10 grid grid-cols-2 gap-2';
 });
+console.log("I'm working!");
 
